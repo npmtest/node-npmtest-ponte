@@ -1,6 +1,6 @@
 # npmtest-ponte
 
-#### test coverage for  [ponte (v0.0.16)](https://github.com/eclipse/ponte#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ponte.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ponte) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ponte.svg)](https://travis-ci.org/npmtest/node-npmtest-ponte)
+#### basic test coverage for  [ponte (v0.0.16)](https://github.com/eclipse/ponte#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ponte.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ponte) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ponte.svg)](https://travis-ci.org/npmtest/node-npmtest-ponte)
 
 #### The Internet of Things Bridge for REST developers
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-ponte/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-ponte/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-ponte/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-ponte/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ponte/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ponte/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-ponte/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-ponte/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ponte/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ponte/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-ponte/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-ponte/build/coverage.html/index.html)
 
